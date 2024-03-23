@@ -13,5 +13,6 @@ if a:
         x_1 = (-b + delta**(1/2))/2*a
         x_2 = (-b - delta**(1/2))/2*a
         print(f"O programa possui duas raízes e elas são: {x_1} e {x_2}")
+    print("Seu Delta é: ", delta)
 else:
     print(f"Valor de {a} não deve ser nulo.")
