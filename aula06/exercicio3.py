@@ -10,7 +10,7 @@ cobre = 3
 quant = (au/cobre)
 print("Você terá que cobrir um total de",round(au,2),"metros quadrados e fará uso de",round(quant,2),"litros de tinta")
 if t == 1:
-    print("Você precisa comprar ao menos:", math.ceil(quant/1),"latas de 18L")
+    print("Você precisa comprar ao menos:", math.ceil(quant/1),"latas de 1L")
 elif t == 18:
     print("Você precisa comprar ao menos:", math.ceil(quant/18),"latas de 18L")
 elif t == 3.7:
