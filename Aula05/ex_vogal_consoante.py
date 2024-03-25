@@ -4,7 +4,7 @@ if (Letra=="A"):
     print("Isso é uma vogal")
 elif (Letra == "E"):
     print("Isso é uma vogal")
-elif (Letra=="I"):.upp
+elif (Letra=="I"):
     print("Isso é uma vogal")
 elif (Letra=="O"):
     print("Isso é uma vogal")
